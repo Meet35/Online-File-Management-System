@@ -1,0 +1,35 @@
+admin
+=> view all files
+	=>download
+	=>view
+	=>delete
+=> view all users
+	=>block unblock
+	=>view and delete
+=>logout
+
+*****************************
+user
+
+new upload
+view 
+download
+delete	
+
+logout
+
+
+***************************************
+the main aim to this project is to safe our files this is currently not needed but in future 
+we may need this file if bychance we delete this file then we can easily backup our file by our system
+
+
+
+//GCD LOGIC
+ while(n1!=n2)
+    {
+        if(n1 > n2)
+            n1 -= n2;
+        else
+            n2 -= n1;
+    }

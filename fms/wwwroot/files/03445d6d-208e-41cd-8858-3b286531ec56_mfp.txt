@@ -1,0 +1,38 @@
+.asm
+tasm tlink debug
+
+
+
+mount c c:\8086
+
+c:
+
+LAB3.asm
+
+
+tasm LAB3.asm
+tlink lab3.obj
+type lab3.map
+
+debug c:\lab3.exe
+-t=00010
+
+
+
+add new item data -> sql server = add yesss 
+
+// col ma right click =>identity specification true //auto increment mate
+
+
+
+10
+11
+
+
+1010
+0110
+-----
+
+
+
+
